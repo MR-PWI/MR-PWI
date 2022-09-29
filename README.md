@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuhilvannanRajasekar
-- 👀 I’m interested in Game Development
+- 👀 I’m working as Game Developer
 - 🌱 I’m currently learning Unity
 - 💞️ I’m working with Planet Web IT
 - 📫 How to reach me muhilvannan@planetwebit.com
